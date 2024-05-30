@@ -1,3 +1,7 @@
 # Statistics
-A course in Google Advanced Data Analytics
+In this course, I learned:
+*  Descriptive statistics
+*  Inferential statistics
+*  A/B testing
+*  Distributions
 ![logo](statistics.jpg)
